@@ -1,0 +1,4 @@
+{
+  "getAnnouncements": "http://localhost/admin/communications",
+  "postAnnoucements": "http://localhost/livewire/update"
+}
